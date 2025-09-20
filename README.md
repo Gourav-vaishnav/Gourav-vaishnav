@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vaisgourav80@gmail.com**
 
-- 📄 Know about my experiences [resume Gourav.pdf](https://github.com/user-attachments/files/20702313/resume.Gourav.pdf)
+- 📄 Know about my experiences [Gourav Resume.pdf](file:///C:/Users/vaisg/OneDrive/Desktop/Gourav%20Vaishnav%20-%20Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gourav vaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav vaishnav" height="30" width="40" /></a>
