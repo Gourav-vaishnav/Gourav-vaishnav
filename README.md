@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **vaisgourav80@gmail.com**
 
-- 📄 Know about my experiences [Gourav Resume.pdf]("C:\Users\vaisg\OneDrive\Desktop\Gourav Vaishnav - Resume.pdf")
+- 📄 Know about my experiences [Gourav-Resume-print.pdf](https://github.com/user-attachments/files/24380347/Gourav-Resume-print.pdf)
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
