@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **vaisgourav80@gmail.com**
 
-- 📄 Know about my experiences [Gourav-Resume-print.pdf](https://github.com/user-attachments/files/24380347/Gourav-Resume-print.pdf)
+- 📄 Know about my experiences [Gourav_Resume.pdf](https://github.com/user-attachments/files/24554200/Gourav_Resume.pdf)
+
 
   
 <h3 align="left">Connect with me:</h3>
